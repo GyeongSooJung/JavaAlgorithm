@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-24T07:35:23" hostname="jeong-gyeongsuui-MacBookPro.local" time="0.034">
+  <properties/>
+  <testcase name="이진변환반복하기()" classname="TestClass" time="0.034"/>
+  <system-out><![CDATA[answer = [1, 1, 0]
+answer = [1, 1]
+count = 1
+count2 = 7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
